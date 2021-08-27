@@ -57,7 +57,7 @@
     "useragent": "^2.3.0",
     "webextension-polyfill": "^0.8.0",
     "webpack-sources": "^2.3.0",
-    "ws": "^7.5.1"
+    "ws": "^8.0.0"
   },
   "peerDependencies": {
     "webpack": "^5.36.2"
